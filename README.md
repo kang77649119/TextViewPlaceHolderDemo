@@ -1,1 +1,4 @@
 # TextViewPlaceHolderDemo
+在UITextView中添加placeHolder占位符效果
+第一种是使用drawRect方式设置占位符效果，拖拽时占位符没有跟随
+第二种是使用UILabel设置占位符效果，拖拽时占位符有跟随效果
